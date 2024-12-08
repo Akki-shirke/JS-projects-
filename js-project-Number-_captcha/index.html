@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Captcha</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+
+    body {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        gap: 50px;
+        transform: translate(-50%, -50%);
+    }
+</style>
+
+<body onload="generateCaptcha()">
+    <div><input type="number" id="Captcha" disabled></div>
+    <div> <input type="number" id="i1"></div>
+    <button onclick="generateCaptcha()">Refresh</button>
+    <button onclick="Check()"> Submit</button>
+    <p id="ans"></p>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+html, body{
+    height: 100%;
+    width: 100%;
+
+}
+#myDiv{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color:gray;
+    border: 5px solid black;
+
+}
+#btn{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin: 40px;
+    background-color: blue;
+    color: white;
+}
