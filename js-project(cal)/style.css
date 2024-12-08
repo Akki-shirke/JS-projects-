@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+.screen{
+    width: 500px;
+    background-color: gray;
+
+}
+.chart{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+input{
+   margin: 10px;
+    padding: 5px 10px;
+    width: 300px;
+}
