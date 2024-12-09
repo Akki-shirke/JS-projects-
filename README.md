@@ -7,43 +7,31 @@
         <th>Website URL</th>
     </tr>
     <tr>
-        <td>Project A</td>
-        <td><a href="http://www.projecta.com" target="_blank">www.projecta.com</a></td>
+        <td>js-basic prompt</td>
+        <td><a href="js-projects-01.netlify.app" target="_blank">Click to discover</a></td>
     </tr>
     <tr>
         <td>Project B</td>
-        <td><a href="http://www.projectb.org" target="_blank">www.projectb.org</a></td>
+        <td><a href="js-projects-02.netlify.app" target="_blank">Level Up</a></td>
     </tr>
     <tr>
         <td>Project C</td>
-        <td><a href="http://www.projectc.net" target="_blank">www.projectc.net</a></td>
+        <td><a href="js-projects-03-cal.netlify.app" target="_blank">Calculate</a></td>
     </tr>
     <tr>
         <td>Project D</td>
-        <td><a href="http://www.projectd.io" target="_blank">www.projectd.io</a></td>
+        <td><a href="js-projects-04.netlify.app" target="_blank">View</a></td>
     </tr>
     <tr>
         <td>Project E</td>
-        <td><a href="http://www.projecte.info" target="_blank">www.projecte.info</a></td>
+        <td><a href="js-projects-05.netlify.app" target="_blank">Let's go</a></td>
     </tr>
     <tr>
         <td>Project F</td>
-        <td><a href="http://www.projectf.co" target="_blank">www.projectf.co</a></td>
+        <td><a href="js-project-06.netlify.app" target="_blank">See</a></td>
     </tr>
     <tr>
         <td>Project G</td>
-        <td><a href="http://www.projectg.dev" target="_blank">www.projectg.dev</a></td>
-    </tr>
-    <tr>
-        <td>Project H</td>
-        <td><a href="http://www.projecth.tech" target="_blank">www.projecth.tech</a></td>
-    </tr>
-    <tr>
-        <td>Project I</td>
-        <td><a href="http://www.projecti.xyz" target="_blank">www.projecti.xyz</a></td>
-    </tr>
-    <tr>
-        <td>Project J</td>
-        <td><a href="http://www.projectj.app" target="_blank">www.projectj.app</a></td>
+        <td><a href="js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
     </tr>
 </table>
