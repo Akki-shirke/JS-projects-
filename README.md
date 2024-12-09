@@ -28,11 +28,11 @@
     </tr>
     <tr>
         <td>Project F</td>
-        <td><a href="js-project-06.netlify.app" target="_blank">See</a></td>
+        <td><a href="https://js-project-06.netlify.app" target="_blank">See</a></td>
     </tr>
     <tr>
         <td>Project G</td>
-        <td><a href="js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
+        <td><a href="https://js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
     </tr>
 </table>
 
