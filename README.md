@@ -35,3 +35,5 @@
         <td><a href="js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
     </tr>
 </table>
+
+(js-generate-captcha.netlify.app)1
