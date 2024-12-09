@@ -8,23 +8,23 @@
     </tr>
     <tr>
         <td>js-basic prompt</td>
-        <td><a href="js-projects-01.netlify.app" target="_blank">Click to discover</a></td>
+        <td><a href="https://js-projects-01.netlify.app" target="_blank">Click to discover</a></td>
     </tr>
     <tr>
         <td>Project B</td>
-        <td><a href="js-projects-02.netlify.app" target="_blank">Level Up</a></td>
+        <td><a href="https://js-projects-02.netlify.app" target="_blank">Level Up</a></td>
     </tr>
     <tr>
         <td>Project C</td>
-        <td><a href="js-projects-03-cal.netlify.app" target="_blank">Calculate</a></td>
+        <td><a href="https://js-projects-03-cal.netlify.app" target="_blank">Calculate</a></td>
     </tr>
     <tr>
         <td>Project D</td>
-        <td><a href="js-projects-04.netlify.app" target="_blank">View</a></td>
+        <td><a href="https://js-projects-04.netlify.app" target="_blank">View</a></td>
     </tr>
     <tr>
         <td>Project E</td>
-        <td><a href="https://js-projects-05.netlify.app/"target="_blank">Let's go</a></td>
+        <td><a href="https://js projects-05.netlify.app/"target="_blank">Let's go</a></td>
     </tr>
     <tr>
         <td>Project F</td>
