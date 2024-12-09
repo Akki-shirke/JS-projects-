@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>Project E</td>
-        <td><a href="js-projects-05.netlify.app" target="_blank">Let's go</a></td>
+        <td><a href="https://js-projects-05.netlify.app/"target="_blank">Let's go</a></td>
     </tr>
     <tr>
         <td>Project F</td>
@@ -36,4 +36,4 @@
     </tr>
 </table>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_kk_i0525) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anket-shirke-3bb4bb297) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anket-shirke-3bb4bb297) 
