@@ -36,4 +36,4 @@
     </tr>
 </table>
 
-(js-generate-captcha.netlify.app)1
+
