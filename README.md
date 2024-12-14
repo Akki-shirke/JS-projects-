@@ -34,6 +34,9 @@
         <td>Project G</td>
         <td><a href="https://js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
     </tr>
+     <td>Project h</td>
+    <td><a href="" target="_blank">View Detail</a></td>
+</tr>
 
     
 </table>
