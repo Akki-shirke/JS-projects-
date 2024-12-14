@@ -35,9 +35,7 @@
         <td><a href="https://js-generate-captcha.netlify.app" target="_blank">View Detail</a></td>
     </tr>
 
-     <td>Project h</td>
-        <td><a href="" target="_blank">View Detail</a></td>
-    </tr>
+    
 </table>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anket-shirke-3bb4bb297) 
